@@ -4,6 +4,7 @@ I mostly create projects for the Pokemon Trading Card Game community. I have mai
 - [Card Buddy](https://top.gg/bot/642081991071891469) (Discord Bot)
 - [Pokemon Card Viewer](https://dashboard.twitch.tv/extensions/nrrvpf717ckxt3g6k48vlbi7jonv8x) (Twitch Extension)
 - [Play.LimitlessTCG Tournament Viewer](https://dashboard.twitch.tv/extensions/xb61ayc9z654d0nomoe3z6eo7cglfh) (Twitch Extension)
+- [Pokemon Unite License Machine](https://discord.com/api/oauth2/authorize?client_id=867595735380918272&permissions=2147772480&scope=bot%20applications.commands) (Discord Bot)
 - My Pokemon Card API
 
 I do have some Public repos that I have opened sourced though!
