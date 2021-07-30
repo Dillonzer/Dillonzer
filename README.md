@@ -1,6 +1,7 @@
 # I'm Dillon, known on the internet as Dillonzer
 
-I mostly create projects for the Pokemon Trading Card Game community. I have mainly private repos in regards to that.
+I mostly create projects for the Pokemon community. I have mainly private repos in regards to that.
+
 ## Discord Bots
 - [Card Buddy](https://top.gg/bot/642081991071891469) [![Discord Bots](https://top.gg/api/widget/status/642081991071891469.svg)](https://top.gg/bot/642081991071891469) [![Discord Bots](https://top.gg/api/widget/servers/642081991071891469.svg)](https://top.gg/bot/642081991071891469)
 - [Pokemon Unite License Machine](https://top.gg/bot/867595735380918272) 
@@ -10,8 +11,12 @@ I mostly create projects for the Pokemon Trading Card Game community. I have mai
 - [Pokemon Card Viewer](https://dashboard.twitch.tv/extensions/nrrvpf717ckxt3g6k48vlbi7jonv8x)
 - [Play.LimitlessTCG Tournament Viewer](https://dashboard.twitch.tv/extensions/xb61ayc9z654d0nomoe3z6eo7cglfh)
 - [Pokemon Unite Build Viewer](https://dashboard.twitch.tv/extensions/442dnakrbplhbrsjz5en1bc53i7obr)
-- My Pokemon Card API
 
+## Data Sources
+- My Pokemon API hosted on Heroku
+- Images hosted on DigitalOcean
+
+------------
 I do have some Public repos that I have opened sourced though!
 - [Pokemon Deck Utils](https://dillonzer.github.io/Pokemon_Deck_Utils/index.html)
 
