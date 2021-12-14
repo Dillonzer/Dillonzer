@@ -13,6 +13,10 @@ I mostly create projects for the Pokemon community. I have mainly private repos 
 - [Pokemon Unite Build Viewer](https://dashboard.twitch.tv/extensions/442dnakrbplhbrsjz5en1bc53i7obr)
 - [Pokemon TCG Tools](https://dashboard.twitch.tv/extensions/bf7z4pzhly2scjpl4py0iwzk0g0tu3)
 
+## Web Apps
+- [Gym Leader Challenge Decklist Viewer](https://gymleaderchallenge.com/decklist-viewer/)
+- [Gym Leader Challenge Event Finder](https://gymleaderchallenge.com/event-finder/)
+
 ## Data Sources
 - My Pokemon API hosted on Heroku
 - Images hosted on DigitalOcean
