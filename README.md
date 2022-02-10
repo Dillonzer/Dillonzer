@@ -1,4 +1,7 @@
 # I'm Dillon, known on the internet as Dillonzer
+[![Discord](https://img.shields.io/discord/642081591371497472.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/SqpJZn2)
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Ddillonzer%26type%3Dpatrons&style=plastic)](https://patreon.com/dillonzer)
+[![Twitter](https://img.shields.io/twitter/follow/dillonzer?style=social)](https://twitter.com/dillonzer)
 
 I mostly create projects for the Pokemon community. I have mainly private repos in regards to that.
 
@@ -27,8 +30,4 @@ I mostly create projects for the Pokemon community. I have mainly private repos 
 ------------
 I do have some Public repos that I have opened sourced though!
 - [Pokemon Deck Utils](https://dillonzer.github.io/Pokemon_Deck_Utils/index.html)
-
-Feel free to reach out to me in my [Discord Server](https://discord.gg/SqpJZn2) if you ever need anything or have any questions. 
-
-If you'd like to support me, follow me on [Patreon](https://www.patreon.com/bePatron?u=34112337)
 
