@@ -24,7 +24,7 @@ I mostly create projects for the Pokemon community. I have mainly private repos 
 - [Gym Leader Challenge Event Finder](https://gymleaderchallenge.com/event-finder/)
 
 ## Data Sources
-- My Pokemon API hosted on Heroku
+- My Pokemon API hosted on Railway
 - Images hosted on DigitalOcean
 
 ------------
