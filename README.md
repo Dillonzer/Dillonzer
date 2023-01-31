@@ -8,13 +8,12 @@ I mostly create projects for the Pokemon community and I develop for the [Siteki
 <a href='https://ko-fi.com/N4N1FGZLH' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 ## Discord Bots
 - [Card Buddy](https://top.gg/bot/642081991071891469) [![Discord Bots](https://top.gg/api/widget/status/642081991071891469.svg)](https://top.gg/bot/642081991071891469) [![Discord Bots](https://top.gg/api/widget/servers/642081991071891469.svg)](https://top.gg/bot/642081991071891469)
-- [Pokemon Unite License Machine](https://top.gg/bot/867595735380918272) 
-[![Discord Bots](https://top.gg/api/widget/status/867595735380918272.svg)](https://top.gg/bot/867595735380918272) [![Discord Bots](https://top.gg/api/widget/servers/867595735380918272.svg)](https://top.gg/bot/867595735380918272)
+- Pokemon Unite License Machine (Was in 1300+ Servers) -- DISCONTINUED
 
 ## Twitch Extensions
 - [Pokemon Card Viewer](https://dashboard.twitch.tv/extensions/nrrvpf717ckxt3g6k48vlbi7jonv8x)
 - [Play.LimitlessTCG Tournament Viewer](https://dashboard.twitch.tv/extensions/xb61ayc9z654d0nomoe3z6eo7cglfh)
-- [Pokemon Unite Build Viewer](https://dashboard.twitch.tv/extensions/442dnakrbplhbrsjz5en1bc53i7obr)
+- Pokemon Unite Build Viewer -- DISCONTINUED
 - [Pokemon TCG Tools](https://dashboard.twitch.tv/extensions/bf7z4pzhly2scjpl4py0iwzk0g0tu3)
 
 ## Twitch Chat Bots
