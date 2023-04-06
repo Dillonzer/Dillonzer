@@ -3,9 +3,8 @@
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Ddillonzer%26type%3Dpatrons&style=plastic)](https://patreon.com/dillonzer)
 [![Twitter](https://img.shields.io/twitter/follow/dillonzer?style=social)](https://twitter.com/dillonzer)
 
-I mostly create projects for the Pokemon community and I develop for the [Sitekick Remastered](https://sitekickremastered.com/) project.
+I mostly create projects for the Pokemon and MegaMan Battle Network community and I develop for the [Sitekick Remastered](https://sitekickremastered.com/) project.
 
-<a href='https://ko-fi.com/N4N1FGZLH' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 ## Discord Bots
 - [Card Buddy](https://top.gg/bot/642081991071891469) [![Discord Bots](https://top.gg/api/widget/status/642081991071891469.svg)](https://top.gg/bot/642081991071891469) [![Discord Bots](https://top.gg/api/widget/servers/642081991071891469.svg)](https://top.gg/bot/642081991071891469)
 - [Pokemon Unite License Machine](https://top.gg/bot/867595735380918272) 
