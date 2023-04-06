@@ -24,7 +24,7 @@ I mostly create projects for the Pokemon community and I develop for the [Siteki
 ## Web Apps
 - [Gym Leader Challenge Decklist Viewer](https://gymleaderchallenge.com/decklist-viewer/)
 - [Gym Leader Challenge Event Finder](https://gymleaderchallenge.com/event-finder/)
-- [Guess That Pokemon](https://pokexword.com/guess-that-pokemon)
+- Guess That Pokemon - V2 not created by me and V1 taken offline, but my logic is still used to generate the puzzles.
 
 ## Data Sources
 - My Pokemon API hosted on Railway
