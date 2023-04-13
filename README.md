@@ -9,7 +9,7 @@ I mostly create projects for the Pokemon and MegaMan Battle Network community an
 - [Card Buddy](https://top.gg/bot/642081991071891469) [![Discord Bots](https://top.gg/api/widget/status/642081991071891469.svg)](https://top.gg/bot/642081991071891469) [![Discord Bots](https://top.gg/api/widget/servers/642081991071891469.svg)](https://top.gg/bot/642081991071891469)
 - [Pokemon Unite License Machine](https://top.gg/bot/867595735380918272) 
 [![Discord Bots](https://top.gg/api/widget/status/867595735380918272.svg)](https://top.gg/bot/867595735380918272) [![Discord Bots](https://top.gg/api/widget/servers/867595735380918272.svg)](https://top.gg/bot/867595735380918272) -- DISCONTINUED
-- NetNavi.exe (AWAITING TOP.GG APPROVAL)
+- [NetNavi.exe][![Discord Bots](https://top.gg/api/widget/status/1093221391765098567.svg)](https://top.gg/bot/1093221391765098567) [![Discord Bots](https://top.gg/api/widget/servers/1093221391765098567.svg)](https://top.gg/bot/1093221391765098567)
 
 ## Twitch Extensions
 - [Pokemon Card Viewer](https://dashboard.twitch.tv/extensions/nrrvpf717ckxt3g6k48vlbi7jonv8x)
