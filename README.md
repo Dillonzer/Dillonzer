@@ -21,7 +21,7 @@ I mostly create projects for the Pokemon and MegaMan Battle Network community an
 - [PTCGBot](https://dillonzer.github.io/ptcgBot.html)
 
 ## Web Apps
-- [Megaman Battle Network Folder Crafter](https://dillonzer.github.io/folder_crafter.html)
+- [FLDRCRFTR](https://dillonzer.github.io/folder_crafter.html)
 - [Gym Leader Challenge Decklist Viewer](https://gymleaderchallenge.com/decklist-viewer/)
 - [Gym Leader Challenge Event Finder](https://gymleaderchallenge.com/event-finder/)
 - Guess That Pokemon - V2 not created by me and V1 taken offline, but my logic is still used to generate the puzzles.
