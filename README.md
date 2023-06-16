@@ -35,6 +35,7 @@ I do have some Public repos that I have opened sourced though!
 - [Pokemon Deck Utils](https://dillonzer.github.io/Pokemon_Deck_Utils/index.html)
 
 ------------
-
+[![Dillonzer's github stats](https://github-readme-stats.vercel.app/api?username=Dillonzer&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+------------
 [![@dillonzer's Holopin board](https://holopin.io/api/user/board?user=dillonzer)](https://holopin.io/@dillonzer)
 
