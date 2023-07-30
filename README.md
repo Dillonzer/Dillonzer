@@ -9,6 +9,9 @@ I mostly create projects for the Pokemon and MegaMan Battle Network community.
 - [NaviDoctorLC](https://github.com/functionFox/NaviDoctorLC)
 - [Sitekick Remastered](https://sitekickremastered.com/)
 
+## Google Chrome Extensions
+- [Pokemon Card Viewer](https://chrome.google.com/webstore/detail/pokemon-card-viewer/gghbibmmhicbfkdoagleficgjonempcm?hl=en&authuser=0)
+
 ## Discord Bots
 - [Card Buddy](https://top.gg/bot/642081991071891469) [![Discord Bots](https://top.gg/api/widget/status/642081991071891469.svg)](https://top.gg/bot/642081991071891469) [![Discord Bots](https://top.gg/api/widget/servers/642081991071891469.svg)](https://top.gg/bot/642081991071891469)
 - [Pokemon Unite License Machine](https://top.gg/bot/867595735380918272) 
