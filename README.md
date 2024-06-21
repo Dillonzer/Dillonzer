@@ -19,7 +19,7 @@ I mostly create projects for the Pokemon and MegaMan Battle Network community. J
 [![Discord Bots](https://top.gg/api/widget/status/867595735380918272.svg)](https://top.gg/bot/867595735380918272) [![Discord Bots](https://top.gg/api/widget/servers/867595735380918272.svg)](https://top.gg/bot/867595735380918272)
 ![Depricated](https://img.shields.io/badge/DEPRICATED-red)
 - [NetNavi.exe](https://top.gg/bot/1093221391765098567) [![Discord Bots](https://top.gg/api/widget/status/1093221391765098567.svg)](https://top.gg/bot/1093221391765098567) [![Discord Bots](https://top.gg/api/widget/servers/1093221391765098567.svg)](https://top.gg/bot/1093221391765098567)
-- Warcraft Lookup (widgets coming soon)
+- [Warcraft Lookup](https://top.gg/bot/1252000060867215490) [![Discord Bots](https://top.gg/api/widget/status/1252000060867215490.svg)](https://top.gg/bot/1252000060867215490) [![Discord Bots](https://top.gg/api/widget/servers/1252000060867215490.svg)](https://top.gg/bot/1252000060867215490)
 
 ## Twitch Extensions
 - [Pokemon Card Viewer](https://dashboard.twitch.tv/extensions/nrrvpf717ckxt3g6k48vlbi7jonv8x)
