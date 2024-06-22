@@ -2,7 +2,11 @@
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Ddillonzer%26type%3Dpatrons&style=plastic)](https://patreon.com/dillonzer)
 [![Twitter](https://img.shields.io/twitter/follow/dillonzer?style=social)](https://twitter.com/dillonzer)
 
-I mostly create projects for the Pokemon and MegaMan Battle Network community. Join my [Discord!](https://discord.gg/SqpJZn2)
+## [Portfolio](https://dillonzer.github.io/portfolio/)
+
+I mostly create projects for the Pokemon and MegaMan Battle Network community.
+
+Join my [Discord!](https://discord.gg/SqpJZn2)
 
 <a href='https://ko-fi.com/N4N1FGZLH' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
