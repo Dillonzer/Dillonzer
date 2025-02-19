@@ -18,7 +18,7 @@ Join my [Discord!](https://discord.gg/SqpJZn2)
 - [Pokemon Card Viewer](https://chrome.google.com/webstore/detail/pokemon-card-viewer/gghbibmmhicbfkdoagleficgjonempcm?hl=en&authuser=0) ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/gghbibmmhicbfkdoagleficgjonempcm)
 
 ## Discord Bots
-- [Card Buddy](https://top.gg/bot/642081991071891469) [![Discord Bots](https://top.gg/api/widget/status/642081991071891469.svg)](https://top.gg/bot/642081991071891469) [![Discord Bots](https://top.gg/api/widget/servers/642081991071891469.svg)](https://top.gg/bot/642081991071891469)
+- [Card Buddy](https://discord.com/discovery/applications/642081991071891469) [![Discord Bots](https://top.gg/api/widget/status/642081991071891469.svg)](https://top.gg/bot/642081991071891469) [![Discord Bots](https://top.gg/api/widget/servers/642081991071891469.svg)](https://top.gg/bot/642081991071891469)
 - [Pokemon Unite License Machine](https://top.gg/bot/867595735380918272) [![Discord Bots](https://top.gg/api/widget/servers/867595735380918272.svg)](https://top.gg/bot/867595735380918272)
 ![Depricated](https://img.shields.io/badge/DEPRICATED-red)
 - [NetNavi.exe](https://top.gg/bot/1093221391765098567) [![Discord Bots](https://top.gg/api/widget/status/1093221391765098567.svg)](https://top.gg/bot/1093221391765098567) [![Discord Bots](https://top.gg/api/widget/servers/1093221391765098567.svg)](https://top.gg/bot/1093221391765098567)
